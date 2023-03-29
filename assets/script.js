@@ -2,6 +2,7 @@ var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 var randomTopic = topics[Math.floor(Math.random() * topics.length)];
 
 
+
 //To display all the topic name
 function listTopics() {
     for (var x = 0; x < topics.length; x++) {
@@ -26,3 +27,5 @@ function listTopics() {
   listTopics();//call the function
   console.log('Which topic should we study first?');
   selectTopic();
+
+
