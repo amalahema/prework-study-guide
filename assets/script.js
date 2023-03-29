@@ -18,6 +18,7 @@ function selectTopic() {
    console.log("Let's study JavaScript!");
  } else {
    console.log('Please try again!');
+   
  }
 }
 
