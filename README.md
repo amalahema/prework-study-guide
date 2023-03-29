@@ -14,7 +14,7 @@ Please follow the standard procedure
 ## Usage
 Display  HTML,CSS,JAVASCRIPT in simple web page
 
-![alt text](assets\image\Prework-Readme.JPG)
+![alt text](assets/image/Prework-Readme.JPG)
 
 ## Credits
 
